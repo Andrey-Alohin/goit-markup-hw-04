@@ -271,7 +271,7 @@ img {
     height: 16px;
     fill: #f4f4fd;
 }
-.our-team-item:hover .link,
+.our-team-item:hover .link:hover,
 .our-team-item .link-icon .link:focus{
     background-color: #404bbf;
 }
